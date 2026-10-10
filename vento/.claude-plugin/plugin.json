@@ -1,0 +1,9 @@
+{
+  "name": "vento",
+  "displayName": "Vento",
+  "version": "1.0.0",
+  "description": "Tu app de contenido adentro de Claude: ideas con tus datos, guiones en tu voz, tu tanda de grabación y tu semana de publicación, guardados en Vento.",
+  "author": { "name": "Vento", "url": "https://getvento.app" },
+  "homepage": "https://getvento.app/claude",
+  "license": "MIT"
+}

@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "vento": { "type": "http", "url": "https://mcp.getvento.app" }
+  }
+}
